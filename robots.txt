@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonmeuse.github.io/official-home-leyu-com-cn/sitemap.xml
